@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nkhanh44
+- 👋 Hi, I’m @nakan44
 - 👀 I’m interested in developing things
 - 🌱 I’m currently working as iOS developer, learning flutter and nodejs 
 
