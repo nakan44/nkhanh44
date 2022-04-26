@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nakan44
+- 👋 Hi, I’m @nkhanh44
 - 👀 I’m interested in developing things
-- 🌱 I’m currently working as iOS developer, learning flutter and nodejs 
+- 🌱 I’m currently working as an iOS engineer
 
 <!---
 nkhanh44/nkhanh44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
